@@ -1,0 +1,8 @@
+need to use -lm when using #include "math.h"
+
+gcc -pedantic -Wall -std=g99 
+	common compiler call
+
+pedantic -> meaning more strict on C guidelines
+
+
