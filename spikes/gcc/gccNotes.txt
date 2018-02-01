@@ -5,4 +5,4 @@ gcc -pedantic -Wall -std=g99
 
 pedantic -> meaning more strict on C guidelines
 
-
+gcc reference page with lots of options: https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
